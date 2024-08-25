@@ -1,1 +1,5 @@
-One final step in the right direction can justify all the silly tackles on the way.
+One final step in the right direction can justify all the silly tackles on the way. For those who wanna excel lightyears, world is just a slingshot.
+
+#git branch
+
+#git merge alien_plot
